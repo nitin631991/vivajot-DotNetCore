@@ -1,0 +1,6 @@
+@VivajotProject_HostAddress = http://localhost:5159
+
+GET {{VivajotProject_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
